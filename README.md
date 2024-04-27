@@ -1,10 +1,10 @@
 ## S K I L L
 
-[![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,github,html,js,linux,nodejs,opencv,py,r,pytorch,sklearn,tensorflow,ubuntu,unity,vscode)](https://skillicons.dev)
 
 ### - H O B B Y
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,c,go,powershell,bash,pytorch,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,python,pytorch)](https://skillicons.dev)
 
 ## S T A T U S
 
